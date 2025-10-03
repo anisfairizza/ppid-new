@@ -314,7 +314,7 @@
             <i class="tio clear"></i>
           </button>
           <h5>Selamat Datang 👋</h5>
-          <p>Jika ada pertanyaan terkait permohonan PPID bisa <a href="#">Hubungi kami</a></p>
+          <p>Jika ada pertanyaan terkait permohonan PPID bisa <a href="https://wa.me/6281255614411" target="_blank">Hubungi kami</a></p>
         </div>
       </div>
     </div>
